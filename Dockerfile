@@ -1,5 +1,5 @@
 
-FROM openjdk:14.0.1-jdk-slim
+FROM openjdk:8u252-jdk-slim
 
 VOLUME /tmp
 
