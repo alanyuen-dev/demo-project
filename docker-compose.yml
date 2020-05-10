@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  demo-project:
+    image: demo-project
+    build: .
+    ports:
+      - 8080
